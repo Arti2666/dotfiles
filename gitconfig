@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthurp@alumni.ie.edu
+	name = Arthur Perissich
